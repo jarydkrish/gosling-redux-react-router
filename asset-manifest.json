@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gosling-redux-react-router/static/css/main.e6c13ad2.css",
+    "main.js": "/gosling-redux-react-router/static/js/main.81c1bfdd.js",
+    "static/js/787.25ecf61b.chunk.js": "/gosling-redux-react-router/static/js/787.25ecf61b.chunk.js",
+    "index.html": "/gosling-redux-react-router/index.html",
+    "main.e6c13ad2.css.map": "/gosling-redux-react-router/static/css/main.e6c13ad2.css.map",
+    "main.81c1bfdd.js.map": "/gosling-redux-react-router/static/js/main.81c1bfdd.js.map",
+    "787.25ecf61b.chunk.js.map": "/gosling-redux-react-router/static/js/787.25ecf61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.81c1bfdd.js"
+  ]
+}
