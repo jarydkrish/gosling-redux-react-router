@@ -1,5 +1,3 @@
-import { configureStore } from '@reduxjs/toolkit';
-
 function postsReducer(state = [], action) {
   // if (action.type === 'SET_POSTS') {
   //   return action.payload;
@@ -14,8 +12,4 @@ function postsReducer(state = [], action) {
   }
 }
 
-export const store = configureStore({
-  reducer: {
-    posts: postsReducer,
-  },
-});
+export default postsReducer;
