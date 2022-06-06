@@ -1,4 +1,10 @@
-# Getting Started with Create React App and Redux
+# Redux / React Router app
+
+This app uses React, React Router, Redux, and Axios to create a simple web-based interface for calling an API.
+
+Check it out! https://jarydkrish.github.io/gosling-redux-react-router/
+
+## Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
